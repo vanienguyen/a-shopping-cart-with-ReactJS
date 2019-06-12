@@ -1,0 +1,44 @@
+.Delivery {
+    text-align: left;
+}
+
+.DeliveryChoices {
+    display: flex;
+    background-color: burlywood;
+    padding: 0;
+    height: 50px;
+    justify-content: space-between;
+
+}
+
+.DeliveryHome, .DeliveryWork, .DeliveryCollect {
+    display: inline-block;
+    color: #8c8c8c;
+    flex: auto;
+    padding-bottom: 4%;
+    padding-top: 4%;
+    text-align: center;
+    border: 1px solid lightgrey;
+}
+
+.DeliveryHome {
+    border-right: white;
+}
+
+.DeliveryWork {
+    border-right: white;
+}
+
+.normalBox {
+    border: 1px solid lightgrey;
+    margin: 4px auto;
+    border-radius: 3px;
+    padding: 5%;
+    width: 100%;
+
+}
+
+.active {
+    color: #42abc8;
+    border-bottom: 4px solid #42abc8;
+}

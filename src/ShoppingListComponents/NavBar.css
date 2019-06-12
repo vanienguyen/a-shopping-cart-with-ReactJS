@@ -1,0 +1,33 @@
+#NavBar {
+    background-color: black;
+    margin: 0;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.continue-shopping, .brand, .FQAs {
+    color: white;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.continue-shopping {
+    text-align: right;
+    margin-left: 15px;
+}
+
+.brand {
+    text-align: center;
+    letter-spacing: 0.125rem;
+    font-family: proxima nova;
+    font-size: 30px;
+}
+.FQAs {
+    text-align: right;
+    margin-right: 15px;
+}
+
+
+

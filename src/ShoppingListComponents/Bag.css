@@ -1,0 +1,40 @@
+.bag-container {
+    margin: 0;
+}
+
+.bag-title {
+    text-align: left;
+}
+
+
+.product-image {
+    width: 55%;
+    height: 100%;
+}
+
+.product-info {
+    text-align: left;
+    margin-left: 7px;
+    height: 100%;
+}
+
+.original-price {
+    text-decoration: line-through;
+}
+.sale-price {
+    color: red;
+}
+.quantity-size-container {
+    width: 70%;
+}
+
+.selections-container {
+    width: 50%;
+    padding-bottom: 1%;
+    height: 100px;
+}
+
+.selections {
+    height: 50%;
+    width: 95%;
+}
