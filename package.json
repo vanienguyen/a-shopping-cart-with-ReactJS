@@ -37,6 +37,6 @@
     "@babel/cli": "^7.4.4",
     "@babel/plugin-transform-modules-commonjs": "^7.4.4",
     "babel-preset-react-app": "^7.0.0",
-    "react-scripts": "^3.0.1"
+    "react-scripts": "^5.0.1"
   }
 }
